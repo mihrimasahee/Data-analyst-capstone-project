@@ -6,8 +6,10 @@
 *   Extract information from a given web site
 *   Write the scraped data into a csv file.
 ## step 3
+* Explore the dataset
+## step 4
 * Finding Duplicates
 * and show it's in bar and pie chart
-## step 4
+## step 5
 * remove duplicates
-*
+
