@@ -12,4 +12,7 @@
 * and show it's in bar and pie chart
 ## step 5
 * remove duplicates
-
+  
+## step 6
+* Finding missing values
+* impute these missing values
