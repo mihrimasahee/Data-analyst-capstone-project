@@ -16,3 +16,8 @@
 ## step 6
 * Finding missing values
 * impute these missing values
+
+## step 7
+* Data normalization
+## step 8 
+* Data Wrangling
